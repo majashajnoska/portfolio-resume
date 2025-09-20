@@ -1,0 +1,56 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 10px;
+}
+
+.profile-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.language-bar .w3-brown {
+  height: 24px;
+  width: 100%;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.page-container {
+  max-width: 1400px;
+}
+
+footer {
+  padding: 20px 0;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+}
+
+footer a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+footer a:hover {
+  opacity: 0.7;
+}
